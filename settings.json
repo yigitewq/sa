@@ -1,0 +1,12 @@
+{
+  "token": "ODQyOTMyNjM4MzI2OTgwNjI4.YJ8gMQ.WJzqgqrmjQocES-wSFP5jBvEVC4",
+  "prefix" : "s!",
+  "owner" : ["","",""],
+  "clientid" : "842932638326980628",
+  "clientsecret" : "33Uh4xWyT76Hbqmb2W1m8EuNKhHafZ0k",
+  "clientcallback" : "https://shazy-botlist.shazyigit.repl.co/callback",
+  "mongoURL" : "mongodb+srv://yigit:efsane3458@cluster0.vmmcb.mongodb.net/shazybotlist?retryWrites=true&w=majority",
+  "serverID": "842803724401115146",
+  "footer": "GLOBAL FOOTER",
+  "tags": ["Moderation", "Fun", "Minecraft","Economy","Guard","NSFW","Anime","Invite","Music","Logging", "Web Dashboard", "Reddit", "Youtube", "Twitch", "Crypto", "Leveling", "Game", "Roleplay", "Utility", "Turkish"]
+}
